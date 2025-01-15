@@ -4,13 +4,11 @@ This repository includes the data and code used to generate the results and figu
 1. Folders:
 a) Analysis: Contains extracted ET data for all products and SFET setups, along with observation data.
 b) Plots_paper: Contains all the main and supplementary figures from the paper.
-c) Other folders: Contain various files required for the analysis.
 
 
 2. Codes:
 a) The Jupyter Notebook script plots_python.ipynb is used for plotting figures.
-b) The R script Analysis_paper1 performs data generation of ET products and setups.
-c) The R scripts Figures1 to Figures5 are used for plotting figures.
+b) The R scripts Figures1 to Figures5 are used for plotting figures.
 
 
 4. Outputs:
